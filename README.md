@@ -1,6 +1,6 @@
 # MSDV_SpaceInvaders
 
-This project recreates the classic Space Invaders game in Unreal Engine 5.4 using C++ and make use of its own GameModeBase, Pawn, HUD, PlayerController and GameInstance. Its features the use of Niagara effects and EnhancedInput as well.
+This project recreates the classic Space Invaders game in Unreal Engine 5.4 using C++ and making use of its own GameModeBase, Pawn, HUD, PlayerController and GameInstance. Its features the use of Niagara effects and EnhancedInput as well.
 
 https://github.com/user-attachments/assets/a8e519d6-73cb-4307-be67-a12f9880a4b9
 
